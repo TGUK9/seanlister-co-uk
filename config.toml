@@ -1,5 +1,5 @@
 baseURL = "https://seanlister.co.uk"
-title = "Sean Lister :: Blog"
+title = "Sean Lister - Blog"
 themesDir = "../.."
 theme = "m10c"
 paginate = 8
